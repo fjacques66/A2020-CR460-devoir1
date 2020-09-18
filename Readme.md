@@ -2,7 +2,7 @@
 ## Énoncé
 
 À partir de GitHub, vous copierez le [repository](https://github.com/matbilodeau/A2020-CR460-devoir1)
-et y appliquerez les modifications nécessaires afin de déployer l'infrastructure
+et y appliquerez les modifications nécessaires afin de déployer l'infrastructure.
 demandée sur GCP via Terraform.  
 Vous fournirez des captures d'écran du résultat: output terraform + site web avec IP + dashboard instances GCP.
 Vous sauvegarderez vos modifications (commit) et publierez le code sur votre propre version du repo.
